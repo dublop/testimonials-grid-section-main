@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/dublop/testimonials-grid-section-main](https://github.com/dublop/testimonials-grid-section-main)
+- Solution URL: [https://www.frontendmentor.io/solutions/testimonials-grid-section-solution-D2hWNC0NVL](https://www.frontendmentor.io/solutions/testimonials-grid-section-solution-D2hWNC0NVL)
 - Live Site URL: [https://dublop.github.io/testimonials-grid-section-main/](https://dublop.github.io/testimonials-grid-section-main/)
 
 ## My process
